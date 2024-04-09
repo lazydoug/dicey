@@ -1,16 +1,27 @@
-# dicey
+# Dicey
 
-A new Flutter project.
+A virtual dice roller.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Dicey
 
-A few resources to get you started if this is your first Flutter project:
+Dicey is a virtual dice roller app built with Flutter, allowing users to roll dice with a tap. Whether you're playing a board game, a tabletop RPG, or need a quick decision, Dicey has you covered.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Roll dice ranging from 1 to 6 sides.
+- Simple and intuitive interface for easy use.
+
+## Getting Started
+
+To use Dicey, clone this repository and run the app on your local machine using Flutter.
+
+
+### Installation
+
+1. Clone this repository to your local machine
+2. Open the terminal to the root directory of the flutter project
+3. Run `flutter pub get` to install dependencies
+4. Run `flutter run` to launch the app on your selected device
+
