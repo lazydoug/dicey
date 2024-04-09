@@ -1,11 +1,5 @@
 # Dicey
 
-A virtual dice roller.
-
-## Getting Started
-
-# Dicey
-
 Dicey is a virtual dice roller app built with Flutter, allowing users to roll dice with a tap. Whether you're playing a board game, a tabletop RPG, or need a quick decision, Dicey has you covered.
 
 ## Features
